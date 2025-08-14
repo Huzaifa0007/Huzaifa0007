@@ -1,3 +1,5 @@
+![banner img](https://github.com/Huzaifa0007/Huzaifa0007/blob/main/professional-modern-minimal-wide-format-_3TfaQwdzSIOff-4zCKAJvA_JBx9m0LWS7yBdbF7kXtyUg.jpeg?raw=true)
+
 <h1 align="center">Hi 👋, I'm Huzaifa Khan</h1>
 <h3 align="center">📊 Data Analytics & Business Intelligence Enthusiast | MCA Student at Mumbai University</h3>
 
