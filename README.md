@@ -1,6 +1,6 @@
 ![banner img](https://github.com/Huzaifa0007/Huzaifa0007/blob/main/professional-modern-minimal-wide-format-_3TfaQwdzSIOff-4zCKAJvA_JBx9m0LWS7yBdbF7kXtyUg.jpeg?raw=true)
 
-<h1 align="center">Hi 👋, I'm Huzaifa Khan</h1>
+<h1 align="center">Hi 👋, I'm Huzaifa Khan</h1> 
 <h3 align="center">📊 Data Analytics & Business Intelligence Enthusiast | MCA Student at Mumbai University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa0007&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa0007" /> </p>
