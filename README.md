@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa0007&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa0007" /> </p>
 
-- 🔭 I’m currently working on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB, focusing on clean UI and scalable backend logic.**
+- 🔭 I’m currently working on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB, focusing on clean UI and scalable backend logic.
 
-- 🌱 I’m currently learning advanced React & Next.js concepts, backend development with Node.js, REST APIs, and improving problem-solving skills with DSA.**
+- 🌱 I’m currently learning advanced React & Next.js concepts, backend development with Node.js, REST APIs, and improving problem-solving skills with DSA.
 
 - 🤝 I’m looking for help with **writing clean, maintainable code, system design basics, and best practices used in real-world web applications.**
 
