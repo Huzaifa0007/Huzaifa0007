@@ -1,15 +1,15 @@
 ![banner img](https://github.com/Huzaifa0007/Huzaifa0007/blob/main/professional-modern-minimal-wide-format-_3TfaQwdzSIOff-4zCKAJvA_JBx9m0LWS7yBdbF7kXtyUg.jpeg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Huzaifa Khan</h1> 
-<h3 align="center">📊 Data Analytics & Business Intelligence Enthusiast | MCA Student at Mumbai University</h3>
+<h3 align="center">💻 Full Stack Web Developer | MCA Student at Mumbai University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa0007&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa0007" /> </p>
 
-- 🔭 I’m currently working on **Building data analytics projects using Python, SQL, Excel, and Power BI.Creating interactive dashboards and business reports.**
+- 🔭 I’m currently working on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB, focusing on clean UI and scalable backend logic.**
 
-- 🌱 I’m currently learning **Data storytelling and visualization best practices. Statistical analysis for business insights.**
+- 🌱 I’m currently learning advanced React & Next.js concepts, backend development with Node.js, REST APIs, and improving problem-solving skills with DSA.**
 
-- 🤝 I’m looking for help with **Improving my portfolio with real-world datasets. Learning best practices for BI dashboard design.**
+- 🤝 I’m looking for help with **writing clean, maintainable code, system design basics, and best practices used in real-world web applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Huzaifa0007](https://github.com/Huzaifa0007)
 
